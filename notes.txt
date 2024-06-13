@@ -1,0 +1,8 @@
+desktop.zip - /desktop
+web.zip - /web
+svgs.zip - /web/svgs
+svgjs.zip - /web/svgs + /web/js
+webfonts.zip - /web/webfonts + /web/css
+otfs.zip - /desktop/otfs
+sprites.zip - /web/sprites
+metadata.zip - /web/metadata
